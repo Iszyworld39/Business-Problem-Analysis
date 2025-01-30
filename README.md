@@ -1,7 +1,11 @@
 # Business-Problem-Analysis
 This project uses analytical skills to address a real-world business problem, such as improving market retention or optimizing market share for Elite Global Intelligence Technologies. 
 
-# The analysis covers:
+![Project Overview](./images/project overview.png)
+
+# Project Overview
+
+The analysis covers:
 
 * Market Share: Evaluating the company's position in the industry relative to competitors.
 
