@@ -61,6 +61,6 @@ cd business-problem-analysis
 
 # Dataset Source
 
-* The dataset for this project was compiled using internal business records and publicly available industry data.
+* The dataset for this project was provided by Elite Global Intelligence technologies, and compiled using internal business records and publicly available industry data.
 
   Please contact Israel Peter at peterisrael.official@gmail.com for any inquiries or feedback.
