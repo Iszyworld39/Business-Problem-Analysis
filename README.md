@@ -3,7 +3,7 @@ This project uses analytical skills to address a real-world business problem, su
 
 ![Project Overview](./images/project overview.png).
 
-# Project Overview
+## Project Overview
 
 The analysis covers:
 
