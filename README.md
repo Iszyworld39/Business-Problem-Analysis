@@ -17,7 +17,7 @@ The analysis covers:
 
 * Return on Investment (ROI): Analyzing the profitability of various business initiatives.
 
-# Database Structure
+## Database Structure
 
 This project is structured around the following key metrics:
 
@@ -31,7 +31,7 @@ This project is structured around the following key metrics:
 
 * investment_returns – Documents investment allocations and calculates ROI on different projects.
 
-# Key Features
+## Key Features
 
 * Performance Tracking: Monitors business performance through key metrics, enabling data-driven decision-making.
 
@@ -43,7 +43,7 @@ This project is structured around the following key metrics:
 
 * Investment Analysis: Evaluates ROI to optimize resource allocation and business strategies.
 
-# How to Run the Project
+## How to Run the Project
 
 * Clone the repository:
 
